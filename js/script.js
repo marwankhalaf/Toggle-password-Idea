@@ -1,3 +1,5 @@
+// start logic
+
 // Setup vars
 var myInput = document.querySelector("#myInput");
 var myButton = document.querySelector("#btn");
